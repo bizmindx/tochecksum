@@ -1,6 +1,6 @@
 {
   "name": "tochecksum",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "convert ethereum address to checksum address",
   "main": "dist/index.js",
   "scripts": {
