@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codaelux/pubConverter.git"
+    "url": "git+https://github.com/codaelux/tochecksum.git"
   },
   "keywords": [
     "ethereum",
@@ -27,9 +27,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codaelux/pubConverter/issues"
+    "url": "https://github.com/codaelux/tochecksum/issues"
   },
-  "homepage": "https://github.com/codaelux/pubConverter#readme",
+  "homepage": "https://github.com/codaelux/tochecksum/blob/master/README.md",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
